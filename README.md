@@ -1,5 +1,5 @@
 # ThatDataPurple.VS2022
-A purple theme for Visual Studio 2022 by That Data Person Limited.
+A purple theme for Visual Studio 2022 made with love by That Data Person Limited.
 
 ## Screenshot
 ![Screenshot of ThatDataPurple theme applied to Visual Studio 2022](https://github.com/thatdataperson/ThatDataPurple.VS2022/blob/main/images/ThatDataPurple.preview.png?raw=true)
