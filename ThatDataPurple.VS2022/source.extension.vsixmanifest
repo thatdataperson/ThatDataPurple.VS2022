@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="theme.ThatDataPurple.VS2022.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="2021.12.4" Language="en-US" Publisher="That Data Person Limited" />
+        <Identity Id="theme.ThatDataPurple.VS2022.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="2022.2.1" Language="en-US" Publisher="That Data Person Limited" />
         <DisplayName>ThatDataPurple.VS2022</DisplayName>
         <Description xml:space="preserve">A purple theme for Visual Studio 2022 by That Data Person Limited.</Description>
         <Icon>ThatDataPurple.icon.png</Icon>
