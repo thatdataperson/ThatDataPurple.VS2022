@@ -1,5 +1,5 @@
 # ThatDataPurple.VS2022
-A purple theme for Visual Studio 2022 made with love by That Data Person Limited.
+A purple theme for Visual Studio 2022 and Visual Studio 2026 made with love by That Data Person Limited.
 
 ## Screenshot
 ![Screenshot of ThatDataPurple theme applied to Visual Studio 2022](https://github.com/thatdataperson/ThatDataPurple.VS2022/blob/main/images/ThatDataPurple.preview.png?raw=true)
@@ -13,6 +13,7 @@ The screenshot above shows the previous colours and will be replaced.
 
 ## Supported Versions
 - Visual Studio 2022
+- Visual Studio 2026 (the same extension installs on both)
 - Visual Studio 2019 is supported in [ThatDataPurple.VS2019](https://github.com/thatdataperson/ThatDataPurple.VS2019)
 - Visual Studio Code is supported in [ThatDataPurple.VSCode](https://github.com/thatdataperson/ThatDataPurple.VSCode)
 
@@ -21,6 +22,7 @@ The screenshot above shows the previous colours and will be replaced.
 - Run the installer
 - Apply the theme
   - Tools > Options > Environment > General > Color Theme > ThatDataPurple.VS2022
+  - In Visual Studio 2026: Tools > Theme > ThatDataPurple.VS2022
 
 ## Uninstall
 - Extensions > Manage Extensions > Installed > ThatDataPurple.VS2022 > Uninstall
