@@ -3,7 +3,7 @@
     <Metadata>
         <Identity Id="theme.ThatDataPurple.VS2022.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="2026.10.0" Language="en-US" Publisher="That Data Person Limited" />
         <DisplayName>ThatDataPurple.VS2022</DisplayName>
-        <Description xml:space="preserve">A purple theme for Visual Studio 2022 and Visual Studio 2026 by That Data Person Limited.</Description>
+        <Description xml:space="preserve">A purple theme for Visual Studio 2022 and Visual Studio 2026 in the That Data Person brand colours, by That Data Person Limited.</Description>
         <Icon>ThatDataPurple.icon.png</Icon>
         <PreviewImage>ThatDataPurple.preview.png</PreviewImage>
     </Metadata>
