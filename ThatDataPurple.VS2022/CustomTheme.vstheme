@@ -9297,5 +9297,21 @@
 				<Background Type="CT_RAW" Source="FFFFFFFF" />
 			</Color>
 		</Category>
+		<Category Name="TextSQLResults" GUID="{AD3737CA-26A1-47cb-A143-0EB0ECBC7FC9}">
+			<Color Name="Plain Text">
+				<Background Type="CT_RAW" Source="FF120A33" />
+				<Foreground Type="CT_RAW" Source="FFECE8FA" />
+			</Color>
+			<Color Name="Error Message">
+				<Background Type="CT_RAW" Source="FF120A33" />
+				<Foreground Type="CT_RAW" Source="FFFF7A8A" />
+			</Color>
+		</Category>
+		<Category Name="ExecutionPlan" GUID="{90A03679-39CF-450f-A9E9-91DAADF17F38}">
+			<Color Name="Text">
+				<Background Type="CT_RAW" Source="FF120A33" />
+				<Foreground Type="CT_RAW" Source="FFECE8FA" />
+			</Color>
+		</Category>
 	</Theme>
 </Themes>
